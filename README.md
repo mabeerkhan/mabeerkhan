@@ -2,7 +2,7 @@
   <img src="ascii-hey.gif" alt="Hey!" width="420">
 </div>
 
-## Hi, I'm Abeer💫  
+## I'm Abeer💫  
 
 - 🎓 M.Sc. student in Applied Data Science at UNIVAQ  
 - 💼 Product Analyst | Skilled in Data Analysis & Project Management  
