@@ -2,7 +2,13 @@
   <img src="ascii-hey.gif" alt="Hey!" width="420">
 </div>
 
-## I'm Abeer💫  
+<h1 align="center">
+  Hey, I'm Abeer 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6188&center=true&vCenter=true&width=500&lines=Turning+data+into+insights+%E2%9C%A8" alt="Turning data into insights"/>
+</p>
 
 - 🎓 M.Sc. student in Applied Data Science at UNIVAQ  
 - 💼 Product Analyst | Skilled in Data Analysis & Project Management  
@@ -13,13 +19,27 @@
 - 🔗 Explore my work: [GitHub Repositories](https://github.com/mabeerkhan?tab=repositories)  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-abeer-khan/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abeerhere1/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abeer.khan.583671/) [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mabeerkhan1234@hotmail.com)
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-abeer-khan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:abeerkhan.m1@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/abeer.khan.583671/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/abeerhere1/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="45" height="45"/>
+  </a>
+</p>
 
 ## 💻 Tech Stack:
-### 🛠️ Tech Stack  
-## 💻 Languages and Tools
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -36,8 +56,6 @@
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
-
-<h3 align="center">That's all folks! ✨</h3>
 
 
 ### ✍️​​ Random Dev Quote
