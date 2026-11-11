@@ -15,7 +15,7 @@
 - 📊 I create visualisations, predictive models & data-driven strategies  
 - 🌍 Passionate about leveraging data for real-world impact  
 - 💻 I share my projects & code here on GitHub 🚀  
-- 📫 Reach me at: **mabeerkhan1234@hotmail.com**  
+- 📫 Reach me at: **abeerkhan.m1@gmail.com**  
 - 🔗 Explore my work: [GitHub Repositories](https://github.com/mabeerkhan?tab=repositories)  
 
 
